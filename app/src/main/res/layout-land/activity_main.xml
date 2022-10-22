@@ -18,16 +18,16 @@
             android:id="@+id/textView2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="MI tienda"
+            android:text="@string/mi_tienda"
             android:textAlignment="center"
             android:textSize="100dp"
             android:textStyle="bold" />
 
         <TextView
-            android:id="@+id/textView2"
+            android:id="@+id/textView3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Bienvenido"
+            android:text="@string/txt_bienvenido"
             android:textAlignment="center"
             android:textSize="50dp"
             android:textStyle="bold" />

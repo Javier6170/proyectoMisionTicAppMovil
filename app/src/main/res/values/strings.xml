@@ -7,5 +7,9 @@
     <string name="txt_cat_frutas_verduras">frutas y verduras</string>
     <string name="txt_carnes">Carnes</string>
     <string name="txt_cuidado_hogar">Cuidado hogar</string>
+    <string name="txt_usuario">Usuario:</string>
+    <string name="txt_contrasena">Contraseña:</string>
+    <string name="duenos">Dueños</string>
+    <string name="clientes">Clientes</string>
 
 </resources>

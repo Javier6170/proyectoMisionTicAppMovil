@@ -29,7 +29,7 @@
                 android:id="@+id/txtclientes"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Clientes"
+                android:text="@string/clientes"
                 android:textAlignment="center"
                 android:textSize="50dp"
                 android:textStyle="bold" />
@@ -55,7 +55,7 @@
 
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="ingrese usuario:"
+                android:text="@string/txt_usuario"
                 android:textAlignment="center"
                 android:textSize="20dp"
                 android:textStyle="bold" />
@@ -69,7 +69,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="contraseña:"
+                android:text="@string/txt_contrasena"
                 android:textAlignment="center"
                 android:textSize="20dp"
                 android:textStyle="bold" />
@@ -85,7 +85,7 @@
                 android:id="@+id/button2"
                 android:layout_width="150dp"
                 android:layout_height="60dp"
-                android:text="Button"
+                android:text="@string/btn_ingresar"
                 android:layout_gravity="center_horizontal"/>
 
         </LinearLayout>
@@ -110,7 +110,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Dueños"
+                android:text="@string/duenos"
                 android:textAlignment="center"
                 android:textSize="50dp"
                 android:textStyle="bold" />
@@ -132,7 +132,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="ingrese usuario:"
+                android:text="@string/txt_usuario"
                 android:textAlignment="center"
                 android:textSize="20dp"
                 android:textStyle="bold" />
@@ -145,7 +145,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="contraseña:"
+                android:text="@string/txt_contrasena"
                 android:textAlignment="center"
                 android:textSize="20dp"
                 android:textStyle="bold" />
@@ -159,16 +159,11 @@
                 android:id="@+id/button"
                 android:layout_width="150dp"
                 android:layout_height="70dp"
-                android:text="Button"
+                android:text="@string/btn_ingresar"
                 android:layout_gravity="center_horizontal"
                 />
-
         </LinearLayout>
-
-
     </LinearLayout>
-
-
 </LinearLayout>
 
 

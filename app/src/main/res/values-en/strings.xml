@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Mini shop online</string>
+    <string name="mi_tienda">My shop</string>
+    <string name="txt_bienvenido">Welcome</string>
+    <string name="btn_ingresar">log in</string>
+    <string name="txt_cat_frutas_verduras">fruits and vegetables</string>
+    <string name="txt_carnes">Meats</string>
+    <string name="txt_cuidado_hogar">cleanliness home</string>
+    <string name="txt_usuario">User:</string>
+    <string name="txt_contrasena">password:</string>
+    <string name="duenos">Owners</string>
+    <string name="clientes">Clients</string>
+
+</resources>
