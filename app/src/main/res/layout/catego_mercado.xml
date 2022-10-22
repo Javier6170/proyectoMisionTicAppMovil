@@ -23,7 +23,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="frutas y verduras"
+            android:text="@string/txt_cat_frutas_verduras"
             android:layout_gravity="center_vertical"
             android:layout_margin="20dp"
             android:textSize="30dp"
@@ -49,7 +49,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_vertical"
             android:layout_margin="20dp"
-            android:text="Carnes"
+            android:text="@string/txt_carnes"
             android:textSize="30dp"
             android:textStyle="bold"/>
 
@@ -70,7 +70,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Cuidado del hogar"
+                android:text="@string/txt_cuidado_hogar"
                 android:layout_gravity="center_vertical"
                 android:layout_margin="20dp"
                 android:textSize="30dp"
@@ -86,8 +86,6 @@
             android:layout_weight="1"
             android:background="#ECDAB8"
             android:orientation="vertical">
-
-
         </LinearLayout>
 
 
